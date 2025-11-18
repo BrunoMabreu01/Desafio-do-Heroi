@@ -21,4 +21,5 @@ if (XP < 1000) {
 }
 
 console.log("O herói de nome " + heroi + " está no nível " + nivel);
-console.log("Com " + XP + " pontos de experiência (XP).");
+
+
